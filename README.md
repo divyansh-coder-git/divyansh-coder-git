@@ -96,8 +96,8 @@ A responsive habit tracker with streak tracking and local storage support.
 
 ## 🌐 Connect With Me
 
-Portfolio: https://divyansh-pandey.netlify.app
+Portfolio: [https://divyansh-pandey.netlify.app](https://divyansh-pandey.netlify.app)
 
-LinkedIn: https://www.linkedin.com/in/divyansh-pandey-nits/
+LinkedIn: [Divyansh Pandey](https://www.linkedin.com/in/divyansh-pandey-nits/)
 
 Email: divyanshpandey062@gmail.com
