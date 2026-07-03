@@ -50,16 +50,16 @@ Building Full-Stack Projects • Learning AI • Always Improving
 
 ## 📌 Featured Projects
 
-### 🌐 Portfolio
+### 🌐 [Portfolio](https://divyansh-pandey.netlify.app/)
 Personal portfolio built using **Svelte** and **Tailwind CSS** showcasing my projects and skills.
 
-### 🏨 Hostel Allotment System
+### 🏨 [Hostel Allotment System](https://hostel-allotment.netlify.app/)
 A hostel room allocation system built using **Svelte**, featuring Excel import and automatic room allocation.
 
-### 💬 Real-Time Chat Application
+### 💬 [Real-Time Chat Application](https://simple-chat-app-jmqz.onrender.com)
 A real-time chat application built using **Node.js**, **Express**, and **Socket.IO**.
 
-### ✅ Habit Tracker
+### ✅ [Habit Tracker](https://habit-tracker-svelte.netlify.app/)
 A responsive habit tracker with streak tracking and local storage support.
 
 ---
