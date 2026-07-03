@@ -24,16 +24,12 @@ Building Full-Stack Projects • Learning AI • Always Improving
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
 <img src="https://skillicons.dev/icons?i=svelte" height="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-<img src="https://skillicons.dev/icons?i=express" height="50"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
@@ -72,9 +68,9 @@ A responsive habit tracker with streak tracking and local storage support.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyansh-coder-git&show_icons=true&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyansh-coder-git&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-coder-git&layout=compact&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-coder-git&layout=compact&theme=github_dark)
 
 </p>
 
