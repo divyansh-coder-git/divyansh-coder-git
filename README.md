@@ -64,18 +64,6 @@ A responsive habit tracker with streak tracking and local storage support.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyansh-coder-git&show_icons=true&theme=github_dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-coder-git&layout=compact&theme=github_dark)
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
