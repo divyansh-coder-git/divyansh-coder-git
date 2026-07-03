@@ -1,63 +1,119 @@
-# Hi, I'm Divyansh 👋
+<h1 align="center">Hi 👋, I'm Divyansh</h1>
 
+<h3 align="center">
 Electrical Engineering Undergrad @ NIT Silchar
+</h3>
 
-Building Full-Stack Projects. Learning AI.
-
----
-
-## 🛠 Tech Stack
-
-![Python](...)
-![C++](...)
-![JavaScript](...)
-![Svelte](...)
-![Node.js](...)
-![Express](...)
-![Git](...)
+<p align="center">
+Building Full-Stack Projects • Learning AI • Always Improving
+</p>
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 About Me
 
-- 📚 Learning FastAPI
+- 🎓 Electrical Engineering Undergraduate at **NIT Silchar**
+- 🌱 Currently learning **Machine Learning, FastAPI & Backend Development**
+- 💻 Passionate about **Full-Stack Development**
+- 🏆 Interested in Hackathons & Open Source
+- 🎯 Goal: Become a Software Engineer building impactful AI products
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=svelte" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=express" height="50"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+
+</p>
+
+---
+
+## 🌱 Currently Working On
+
+- 🚀 Full-Stack Development
 - 🤖 Machine Learning
-- 💻 Full-Stack Development
+- ⚡ FastAPI
 - 🏆 Hackathons
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=divyansh-coder-git&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com?user=divyansh-coder-git&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-coder-git&layout=compact&theme=tokyonight)
+- 📚 Data Structures & Algorithms
 
 ---
 
 ## 📌 Featured Projects
 
-- 🌐 Portfolio
-- 💬 Real-Time Chat App
-- 🏨 Hostel Allotment System
-- ✅ Habit Tracker
+### 🌐 Portfolio
+Personal portfolio built using **Svelte** and **Tailwind CSS** showcasing my projects and skills.
+
+### 🏨 Hostel Allotment System
+A hostel room allocation system built using **Svelte**, featuring Excel import and automatic room allocation.
+
+### 💬 Real-Time Chat Application
+A real-time chat application built using **Node.js**, **Express**, and **Socket.IO**.
+
+### ✅ Habit Tracker
+A responsive habit tracker with streak tracking and local storage support.
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyansh-coder-git&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-coder-git&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=divyansh-coder-git&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh-coder-git&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Learn FastAPI
+- 🚀 Build AI Projects
+- 🤖 Learn Deep Learning
+- 🏆 Participate in Major Hackathons
+- 🌍 Contribute to Open Source
+
+---
+
+## 🌐 Connect With Me
 
 Portfolio: https://divyansh-pandey.netlify.app
 
-LinkedIn: ...
+LinkedIn: https://www.linkedin.com/in/divyansh-pandey-nits/
 
-Email: ...
+Email: divyanshpandey062@gmail.com
