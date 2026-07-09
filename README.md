@@ -60,7 +60,7 @@ A hostel room allocation system built using **Svelte**, featuring Excel import a
 A real-time chat application built using **Node.js**, **Express**, and **Socket.IO**.
 
 ### ✅ [Habit Tracker](https://habit-tracker-svelte.netlify.app/)
-A responsive habit tracker with streak tracking and local storage support.
+A responsive habit tracker with local storage persistence support.
 
 ---
 
