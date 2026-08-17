@@ -68,7 +68,7 @@ A responsive habit tracker with local storage persistence support.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app?user=divyansh-coder-git&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=divyansh-coder-git&theme=tokyonight&hide_border=true"/>
 
 </p>
 
